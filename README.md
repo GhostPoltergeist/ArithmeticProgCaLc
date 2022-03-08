@@ -1,4 +1,4 @@
-# ArithmeticProgCacl
+# ArithmeticProgCaLc
 
 <p align="center">
   <img src="https://github.com/GhostPoltergeist/ArithmeticProgCacl/blob/main/calculater.gif" height="200"/>
