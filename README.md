@@ -4,7 +4,7 @@
   <img src="https://github.com/GhostPoltergeist/ArithmeticProgCacl/blob/main/calculater.gif" height="200"/>
 </a></p>
 
-[![GitHub Issues](https://img.shields.io/github/issues/GhostPoltergeist/ArithmeticProgCacl)]
+(https://img.shields.io/github/issues/GhostPoltergeist/ArithmeticProgCacl)]
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/ambv/black)
 <br />
 ```
