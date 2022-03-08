@@ -5,7 +5,12 @@
 </a></p>
 
 ![GitHub Issues](https://img.shields.io/github/issues/GhostPoltergeist/ArithmeticProgCacl)
+![Forks](https://img.shields.io/github/forks/GhostPoltergeist/ArithmeticProgCacl)
+![Stars](https://img.shields.io/github/stars/GhostPoltergeist/ArithmeticProgCacl)
+![License](https://img.shields.io/github/license/GhostPoltergeist/ArithmeticProgCacl)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg?style=flat-square)](https://github.com/ambv/black)
+![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGhostPoltergeist%2FArithmeticProgCacl)
+
 <br />
 ```
 An arithmetic progression, also known as an arithmetic sequence,
